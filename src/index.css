@@ -35,6 +35,11 @@ body > div {
   justify-content: center;
 }
 
+.home {
+  background-color: aquamarine;
+  color:cornflowerblue
+}
+
 .red {
   background-color: #b05f6d;
   color: white;
