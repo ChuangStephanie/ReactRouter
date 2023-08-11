@@ -4,6 +4,7 @@ import Blue from "./components/Blue";
 import Red from "./components/Red";
 import Home from "./components/Home";
 import NavBar from "./components/Nav";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
             <Route path="/red" element={<Red />} />
           </Routes>
         </div>
+        <Footer />
       </div>
     </>
   );
