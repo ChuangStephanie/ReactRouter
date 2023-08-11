@@ -54,3 +54,8 @@ body > div {
   background-color: #275db3;
   color: white;
 }
+
+.green {
+  background-color: green;
+  color: white;
+}
