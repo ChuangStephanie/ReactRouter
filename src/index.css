@@ -49,9 +49,17 @@ body > div {
   color: black;
 }
 
+#houseicon {
+  color: cadetblue;
+}
+
 .red {
   background-color: #b05f6d;
   color: white;
+}
+
+#fireicon {
+  color: orange;
 }
 
 .blue {
@@ -59,7 +67,15 @@ body > div {
   color: white;
 }
 
+#watericon {
+  color: aqua;
+}
+
 .green {
   background-color: green;
   color: white;
+}
+
+#grassicon {
+  color: chartreuse;
 }
