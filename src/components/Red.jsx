@@ -6,4 +6,4 @@ export default function Red() {
             <h1>Red</h1>
         </div>
     );
-};
+}
