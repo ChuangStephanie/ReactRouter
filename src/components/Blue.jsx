@@ -6,4 +6,4 @@ export default function Blue() {
             <h1>Blue</h1>
         </div>
     );
-};
+}
